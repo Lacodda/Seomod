@@ -1,0 +1,56 @@
+<config>
+	<options>
+		<allowedmeta>
+			<meta name="keywords"></meta>
+			<meta name="description"></meta>
+		</allowedmeta>
+		<charset>utf-8</charset>
+		<strip comments="1" extraspaces="1" extralines="1" oneline="1">0</strip>
+		<except>limit,limitstart</except>
+	</options>
+	<rules>
+		<rule disabled="1">Это пустое правило, его не нужно удалять</rule>
+		<rule url="/">
+			  <title>LEXINTEL | аутстаффинг и аутсорсинг персонала, подбор иностранного персонала | разрешение на работу в Москве иностранным гражданам, получение разрешения на работу и другие юридические услуги</title>
+		</rule>
+
+		<rule url="/permission/" redirect="/services/work-permit.html"></rule>
+		<rule url="/permission/" redirect="/services/permission.html"></rule>
+		<rule url="/outsourcing_personnel/" redirect="/services/outsourcing-personnel.html">
+		<rule url="/outsourcing_personnel/" redirect="/services/outsorcing/outsourcing-personnel.html"></rule>
+		  <title>Аутсорсинг персонала, услуга аутсорсинг персонала</title>
+		</rule>
+		<rule url="/lizing-personala/" redirect="/services/outstaffing/outstaffing-personnel-leasing-.html"></rule>
+		<rule url="/lizing-personala/" redirect="/outstaffing-articles/outstaffing-personnel-leasing-.html"></rule>
+		<rule url="/outstaffing/" redirect="/services/outstaffing.html"></rule>
+		<rule url="/fms/" redirect="/helpful-information/fms-adress.html"></rule>
+	</rules>
+
+	<replacement>
+		<rule url="/">
+			<find><![CDATA[<a href="/helpful-information/information/federal-laws2.html" class="item2" >Законодательство 2</a>]]></find>
+			<replace><![CDATA[]]></replace>
+			<find><![CDATA[<a href="/helpful-information/information/federal-laws3.html" class="item2" >Законодательство 3</a>]]></find>
+			<replace><![CDATA[]]></replace>
+			<find><![CDATA[<a href="/helpful-information/information/federal-laws4.html" class="item2"  style="border-bottom:0px none #FFFFFF">Законодательство 4</a>]]></find>
+			<replace><![CDATA[]]></replace>
+		</rule>
+		<rule exp="/.*">
+			<find><![CDATA[<a href="/helpful-information/information/federal-laws2.html" class="item2" >Законодательство 2</a>]]></find>
+			<replace><![CDATA[]]></replace>
+			<find><![CDATA[<a href="/helpful-information/information/federal-laws3.html" class="item2" >Законодательство 3</a>]]></find>
+			<replace><![CDATA[]]></replace>
+			<find><![CDATA[<a href="/helpful-information/information/federal-laws4.html" class="item2"  style="border-bottom:0px none #FFFFFF">Законодательство 4</a>]]></find>
+			<replace><![CDATA[]]></replace>
+		</rule>
+		<rule url="/services/outstaffing/outstaffingcalculation.html">
+			<find><![CDATA[<a style="font-size:16px; text-decoration:underline; " class="print_calc" href="/modules/mod_outstaffingcalc/downloads/Commercial proposal.doc">Получить коммерческое предложение</a>]]></find>
+			<replace><![CDATA[<a style="font-size:16px; text-decoration:underline; " class="print_calc" href="/modules/mod_outstaffingcalc/downloads/Commercial_proposal_26_04_11.doc">Получить коммерческое предложение</a>]]></replace>
+		</rule>
+	</replacement>
+
+	<notfound script="/404.php">
+		<rule disabled="1">Это пустое правило, его не нужно удалять</rule>
+	</notfound>
+
+</config>

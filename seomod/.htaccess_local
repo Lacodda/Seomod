@@ -1,0 +1,10 @@
+# Включаем mod_rewrite
+ RewriteEngine On
+# Условие "строка не файл на серв."
+ RewriteCond %{REQUEST_FILENAME} !-f
+# Условие "строка не каталог на с."
+ RewriteCond %{REQUEST_FILENAME} !-d
+# Перенаправление в index.php если два верхних условия прошли
+ RewriteRule ^(.*)$ index.php [L,QSA]
+
+#DirectoryIndex index.html
