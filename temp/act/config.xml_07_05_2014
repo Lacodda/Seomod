@@ -1,0 +1,35 @@
+<config>
+
+    <options>
+      <allowedmeta>
+        <meta name="keywords"></meta>
+        <meta name="description"></meta>
+        <meta name="viewport" content="width=device-width"></meta>
+        <meta http-equiv="X-UA-Compatible">IE=Edge</meta>
+
+      </allowedmeta>
+      <html_version>5</html_version>
+      <charset>UTF-8</charset>
+      <strip comments="0" extraspaces="1" extralines="1" oneline="0">1</strip>
+      <except>limit,limitstart</except>
+    </options>
+    
+    <rules>
+    
+      <rule disabled="1">Это пустое правило, его не нужно удалять</rule>
+      
+      <rule url="/" disabled="1">
+        <title>главная</title>
+      </rule>
+      
+      <rule url="/123">
+        <title>вторичка</title>
+      </rule>
+      
+    </rules>
+    
+    <notfound script="/404.php">
+      <rule disabled="1">Это пустое правило, его не нужно удалять</rule>
+    </notfound>
+    
+</config>

@@ -1,0 +1,1248 @@
+<config>
+    <options>
+      <allowedmeta>
+        <meta name="keywords"></meta>
+        <meta name="description"></meta>
+        <meta name="viewport" content="width=device-width"></meta>
+        <meta http-equiv="X-UA-Compatible">IE=Edge</meta>
+      </allowedmeta>
+      <html_version>5</html_version>
+      <charset>UTF-8</charset>
+      <strip comments="1" extraspaces="1" extralines="1" oneline="1">0</strip>
+      <except>limit,limitstart</except>
+    </options>
+    
+    <rules>
+		<rule disabled="1">Это пустое правило, его не нужно удалять</rule>
+		<rule url="/bloki/bloki-keramzitobetonnye/" redirect="/bloki/bloki-keramzitobetonnye-i-peskocementnye/">
+			<title>Керамзитобетонные блоки цена, купить керамзитобетонные блоки в Москве, производство керамзитобетонных блоков | стоимость керамзитобетонных блоков</title>
+			<keywords>керамзитобетонные блоки цена, купить керамзитобетонные блоки москва, производство керамзитобетонных блоков, стоимость керамзитобетонных блоков</keywords>
+			<description>Лучшие цены на керамзитобетонные блоки. Купить керамзитобетонные блоки в Москве. Производство керамзитобетонных блоков. Стоимость керамзитобетонных блоков</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/gruntovka/">
+			<title>Универсальная грунтовка купить в Москве, стоимость грунтовки от производителя | цены на сухую грунтовку</title>
+			<keywords>универсальная грунтовка цена, грунтовка купить в москве, грунтовка производитель</keywords>
+			<description>Купить универсальную грунтовку по ценам производителя в Москве. Лучшая стоимость хорошей сухой грунтовки в Профрегион Керамика</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/klej-dlya-blokov/">
+			<title>Клей для газобетонных (газосиликатных) блоков цена, купить клей для газосиликатных блоков</title>
+			<keywords>купить клей для газосиликатных блоков, клей для газобетонных блоков цена, стоимость клея для газосиликатных блоков</keywords>
+			<description>Профрегион Керамика предлагает купить клей для газосиликатных (газобетонных) блоков в Москве. Лучшие цены на клей для газосиликатных блоков (газобетона)</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/klej-dlya-uteplitelej/">
+			<title>Клей для утеплителя купить в Москве, цены на клей для утеплителя из минеральной ваты | клей для приклеивания утеплителя</title>
+			<keywords>клей для утеплителя цена, клей для утеплителя купить, клей для утеплителя минеральной ваты</keywords>
+			<description>Профрегион Керамика предлагает купить клей для утеплителя в Москве. Лучшие цены на клей для утеплителя из минеральной ваты. Продажа клея для приклеивания утеплителя</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/cement/">
+			<title>Цемент М500 цена в Москве, купить цемент в мешках | стоимость сухих смесей цемента</title>
+			<keywords>купить цемент в москве, цемент в мешках цена, купить цемент м500, сколько стоит мешок цемента</keywords>
+			<description>Купить цемент в мешках. Лучшие цены на цемент М500 в Москве. Узнать стоимость цемента в Профрегион Керамика</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/klej-plitochnyj/">
+			<title>Плиточный клей 25 кг цена в Москве, купить плиточный клей 25кг | продажа сухой смеси плиточного клея в Профрегион Керамика</title>
+			<keywords>плиточный клей 25 кг цена, клей плиточный москва, купить плиточный клей, клей плиточный гост</keywords>
+			<description>Профрегион Керамика предлагает купить плиточный клей 25 кг. Лучшая цена на плиточный клей 25кг в Москве.</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/smesi-dlya-polov/">
+			<title>Строительные смеси для пола | цены на сухие смеси для пола, купить смеси для пола</title>
+			<keywords>сухие смеси для пола цена, купить смеси для пола, строительные смеси для пола</keywords>
+			<description>Профрегион Керамика предлагает купить строительные смеси для пола. Лучшие цены на сухие смеси для пола в Москве</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/suxie-kladochnye-smesi/">
+			<title>Сухие кладочные смеси купить в Москве, цены на сухие кладочные смеси | универсальные кладочные смеси в Профрегион Керамика</title>
+			<keywords>сухие кладочные смеси цена, универсальная кладочная смесь, кладочная смесь купить</keywords>
+			<description>Профрегион Керамика предлагает купить сухие кладочные смеси по цене производителя. Продажа универсальных кладочных смесей в Москве</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/teplye-kladochnye-smesi/">
+			<title>Теплые кладочные смеси купить в Москве, цены на теплые кладочные смеси Perel в Профрегион Керамика</title>
+			<keywords>теплая кладочная смесь цена, perel теплая кладочная смесь</keywords>
+			<description>Профрегион Керамика предлагает купить теплые кладочные смеси. Лучшие цены на теплые кладочные смеси Perel в Москве</description>
+		</rule>
+		<rule url="/cvetnye-kladochnye-smesi/">
+			<title>Цветные кладочные смеси купить в Москве, цены на цветные кладочные смеси Perel | Профрегион Керамика</title>
+			<keywords>цветная кладочная смесь perel цена, купить цветную кладочную смесь</keywords>
+			<description>Профрегион Керамика предлагает купить цветные кладочные смеси. Лучшие цены на цветные кладочные смеси Perel в Москве</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/shpaklevka-cementnaya/">
+			<title>Шпаклевка цементная цена в Москве, купить шпаклевку на цементной основе | Профрегион Керамика</title>
+			<keywords>шпаклевка на цементной основе, шпаклевка цементная цена</keywords>
+			<description>Профрегион Керамика предлагает купить шпаклевку на цементной основе. Лучшие цены на цементную шпаклевку в Москве</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/shtukaturka-cementnaya/">
+			<title>Штукатурка цементная цена в Москве, купить сухую цементную штукатурку | Профрегион Керамика</title>
+			<keywords>штукатурка цементная цена, штукатурка цементная купить, сухая цементная штукатурка</keywords>
+			<description>Профрегион Керамика предлагает купить сухую цементную штукатурку. Лучшие цены на цементную штукатурку в Москве</description>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/shtukaturka-gipsovaya/">
+			<title>Гипсовая штукатурка в Москве, купить гипсовую штукатурку, цены на гипсовую штукатурку | Профрегион Керамика</title>
+			<keywords>гипсовая штукатурка купить, штукатурка гипсовая цена</keywords>
+			<description>Профрегион Керамика предлагает купить гипсовую штукатурку. Лучшие цены на гипсовую штукатурку в Москве</description>
+		</rule>
+		<rule url="/kirpich/">
+			<title>Керамический кирпич цена, купить кирпич по ГОСТу, стоимость кирпича в Москве | продажа кирпича недорого в ПрофРегион Керамика</title>
+			<keywords>купить кирпич, керамический кирпич цена, стоимость кирпича москва, продажа кирпича недорого</keywords>
+			<description>Лучшие цены на керамический кирпич. Купить кирпич по ГОСТ. Стоимость кирпича в Москве. Продажа кирпича недорого в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/kirpich-rabochij/">
+			<title>Кирпич строительный  М150 | купить кирпич строительный по ГОСТу, цены на рабочий строительный кирпич в ПрофРегион Керамика</title>
+			<keywords>купить кирпич строительный по ГОСТу, кирпич строительный цена, рабочий кирпич цена, кирпич строительный  м150</keywords>
+			<description>Купить кирпич строительный по ГОСТу. Кирпич строительный  М150 в Москве. Лучшие цены на строительный рабочий кирпич</description>
+		</rule>
+		<rule url="/kirpich-rabochij/kirpich-polnotelyj/" redirect="/category/produktion/kirpich-rabochij/kirpich-rabochij-keramicheskij-polnotelyj/">
+			<title>Кирпич полнотелый строительный | цены на кирпич строительный полнотелый, керамический полнотелый кирпич купить</title>
+			<keywords>кирпич полнотелый строительный, полнотелый кирпич купить, цены на кирпич строительный полнотелый, кирпич керамический полнотелый</keywords>
+			<description>Кирпич полнотелый строительный в Москве. Лучшие цены на кирпич строительный полнотелый. Керамический полнотелый кирпич купить в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/kirpich-rabochij/kirpich-porizovanyj/" redirect="/category/produktion/kirpich-rabochij/kirpich-rabochij-keramicheskij-porizovanyj/">
+			<title>Поризованный кирпич | купить поризованный кирпич, продажа керамического поризованного кирпича, кирпич поризованный цена в Москве</title>
+			<keywords>поризованный кирпич, купить поризованный кирпич, продажа керамического поризованного кирпича, кирпич поризованный цена</keywords>
+			<description>Поризованный кирпич в Москве. Купить поризованный кирпич. Продажа керамического поризованного кирпича. Лучшие цены на кирпич поризованный в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/kirpich-rabochij/kirpich-effektivnyj/" redirect="/category/produktion/kirpich-rabochij/kirpich-rabochij-keramicheskij-effektivnyj/">
+			<title>Кирпич щелевой купить в Москве, кирпич эффективный цены | ПрофРегион Керамика</title>
+			<keywords>кирпич щелевой, кирпич эффективный</keywords>
+			<description>Лучшие цены на кирпич эффективный в Москве. Купить кирпич щелевой в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj/">
+			<title>Кирпич полуторный облицовочный купить, стоимость облицовочного керамического кирпича в Москве | цены на кирпич полуторный облицовочный, кирпич облицовочный одинарный</title>
+			<keywords>купить кирпич облицовочный цены, стоимость облицовочного керамического кирпича москва, цены на кирпич полуторный облицовочный, кирпич облицовочный одинарный</keywords>
+			<description>Купить кирпич облицовочный. Стоимость облицовочного керамического кирпича в Москве. Лучшие цены на кирпич полуторный облицовочный. Кирпич облицовочный одинарный в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/" redirect="/category/produktion/kirpich-oblicovochnyj/kirpich-oblicovochnyj-krasnyj-effektivnyj/">
+			<title>Кирпич красный цена в Москве, красный кирпич купить | красный облицовочный кирпич, кирпич лицевой красный в ПрофРегион Керамика</title>
+			<keywords>кирпич красный цена, красный кирпич купить, красный облицовочный кирпич, кирпич лицевой красный</keywords>
+			<description>Кирпич красный цена в Москве, красный кирпич купить | красный облицовочный кирпич, кирпич лицевой красный в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/" redirect="/category/products/kirpich-oblicovochnyj/kirpich-oblicovochnyj-cvetnoj-effektivnyj/">
+			<title>Облицовочный белый кирпич, облицовочный кирпич желтый в Москве | купить белый кирпич, кирпич белый цена, кирпич лицевой желтый</title>
+			<keywords>облицовочный белый кирпич, облицовочный кирпич желтый, купить белый кирпич, кирпич белый цена, кирпич лицевой желтый</keywords>
+			<description>Купить облицовочный белый кирпич, облицовочный кирпич желтый в Москве. Лучшие цены на кирпич белый. Кирпич лицевой желтый в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/bloki/bloki-gazosilikatnye-gazobeton/" redirect="/bloki/bloki-gazosilikatnyegazobeton/">
+			<title>Цены на блоки газосиликатные (газобетон), купить газосиликатные блоки в Москве, стоимость газобетона | газобетон цена, газосиликатные блоки от производителя</title>
+			<keywords>цены на блоки газосиликатные, купить газосиликатные блоки, стоимость газобетона, газосиликатные блоки в Москве, газобетон цена, газосиликатные блоки от производителя</keywords>
+			<description>Лучшие цены на блоки газосиликатные (газобетон). Купить газосиликатные блоки в Москве. Стоимость газобетона в ПрофРегион Керамика. Газосиликатные блоки от производителя</description>
+		</rule>
+		<rule url="/bloki/bloki-peskocementnye/">
+			<title>Пескоцементные блоки цена в Москве | пескоцементные блоки 20х20х40 цена в ПрофРегион Керамика</title>
+			<keywords>пескоцементные блоки цена, пескоцементные блоки 20х20х40 цена</keywords>
+			<description>Лучшие цены на пескоцементные блоки в Москве. Узнать цены на пескоцементные блоки 20х20х40 в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/kirpich-rabochij/porizovanye-keramicheskie-bloki/" redirect="/category/produktion/kirpich-rabochij/porizovanye-keramicheskie-bloki/">
+			<title>Крупноформатные керамические блоки купить, цены на тёплую керамику, цены на керамические поризованные блоки | продажа керамических блоков, купить поризованные керамические блоки, размеры керамических блоков</title>
+			<keywords>крупноформатные керамические блоки купить, цены на тёплую керамику, цены на керамические поризованные блоки, размеры керамических блоков,  продажа керамических блоков, купить поризованные керамические блоки</keywords>
+			<description>Крупноформатные керамические блоки купить. Лучшие цены на тёплую керамику (керамические поризованные блоки). Продажа керамических блоков в Москве</description>
+		</rule>
+		<rule url="/gipsovye-izdeliya/" redirect="/category/produktion/gipsovye-izdeliya/">
+			<title>Гипсовые плиты цена в Москве | гипсовая пазогребневая плита влагостойкая, гипсовая влагостойкая плита в ПрофРегион Керамика</title>
+			<keywords>гипсовые плиты цена, гипсовая пазогребневая плита влагостойкая, гипсовая влагостойкая плита</keywords>
+			<description>Лучшие цены на гипсовые плиты в Москве. Купить гипсовую пазогребневую плиту влагостойкую. Продажа гипсовых влагостойких плит в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/nerudnye-materialy/" redirect="/category/produktion/nerudnye-materialy/">
+			<title>Нерудные материалы в Москве | купить нерудные строительные материалы, продажа нерудных материалов в ПрофРегион Керамика</title>
+			<keywords>нерудные материалы москва, нерудные строительные материалы, продажа нерудных материалов</keywords>
+			<description>Лучшие цены на нерудные материалы в Москве. Купить нерудные строительные материалы. Продажа нерудных материалов в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/pesok-karernyi/" redirect="/blok-gazosilikatnyj-stenovoj-kzsm-600x250x300d600-2/">
+			<title>Песок карьерный в Москве | карьерный песок цена за куб, купить карьерный песок с доставкой</title>
+			<keywords>песок карьерный москва, карьерный песок цена за куб, купить карьерный песок с доставкой</keywords>
+			<description>Песок карьерный в Москве. Карьерный песок цена за куб. Купить карьерный песок с доставкой</description>
+		</rule>
+		<rule url="/pesok-mytyj/">
+			<title>Мытый песок в Москве | купить песок мытый, песок мытый цена в ПрофРегион Керамика</title>
+			<keywords>мытый песок, купить песок мытый, песок мытый цена</keywords>
+			<description>Мытый песок в Москве. Купить песок мытый. Лучшие цены на песок мытый в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/pesok-rechnoj/">
+			<title>песок речной купить, речной песок цена, песок речной в мешках | ПрофРегион Керамика</title>
+			<keywords>песок речной купить, речной песок цена, песок речной в мешках</keywords>
+			<description>Песок речной купить в Москве. Лучшие цены на речной песок. Продажа песка речного в мешках в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/shheben-izvestnyakovyq/">
+			<title>Щебень известняковый цена в Москве | щебень известняковый фракция 20 40, щебень известняковый 20 40 цена в ПрофРегион Керамика</title>
+			<keywords>щебень известняковый цена, щебень известняковый фракция 20 40, щебень известняковый 20 40 цена</keywords>
+			<description>Лучшие цены на щебень известняковый в Москве. Щебень известняковый 20 40 в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/shheben-granitnyj/">
+			<title>Щебень гранитный 5 20, 20 40, 40 70| купить щебень гранитный в Москве, щебень гранитный цена за куб, щебень гранитный ГОСТ</title>
+			<keywords>щебень гранитный 5 20, щебень гранитный 20 40, щебень гранитный 40 70, щебень гранитный цена за куб, щебень гранитный гост</keywords>
+			<description>Щебень гранитный 5 20, 20 40, 40 70. Купить щебень гранитный в Москве. Щебень гранитный цена за куб. Щебень гранитный по ГОСТу в ПрофРегион Керамика</description>
+		</rule>
+		<rule url="/smesi-stroitelnye-cement/">
+			<title>Сухие строительные смеси купить, цены на строительные смеси в Москве | продажа строительных смесей оптом</title>
+			<keywords>сухие строительные смеси купить, строительные смеси цены, строительные смеси москва, строительные смеси оптом</keywords>
+			<description>Купить сухие строительные смеси. Лучшие цены на строительные смеси в Москве. Продажа строительных смесей оптом в ПрофРегион Керамика</description>
+		</rule>
+		
+		<!-- START БЛОК ПРАВИЛ ДЛЯ АВТО ТАЙТЛОВ И МЕТА-->
+		<!-- отключаем шаблоны для отдельных категорий -->
+		<rule url="/category/produktion/bloki/blok-gazosilikatnyj-stenovoj/">
+
+        </rule> 
+		<rule url="/category/produktion/bloki/blok-stenovoj-keramzitobetonnyj/">
+
+        </rule>  
+		<rule url="/category/produktion/bloki/blok-licevoj-peskocementnyj/">
+
+        </rule> 
+		<rule url="/category/produktion/bloki/blok-stenovoj-peskocementnyj/">
+
+        </rule>                        		
+		<!--Полнотелый рабочий кирпич -->
+        <rule exp="/kirpich-polnotelyj-keramich*">
+            <title>Строительный *!H1!* купить в Москве – цена и размеры | ПрофРегион Керамика</title>
+            <keywords>кирпич рабочий полнотелый цена, купить *!H1!*, купить кирпич строительный</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* недорого в Москве</description>
+        </rule>
+		<!--Кирпич рабочий керамический эффективный-->
+		<rule exp="/kirpich-keramicheskij-effektivnyj*">
+            <title>Рабочий *!H1!* – цены, характеристики, размеры | продажа щелевого кирпича в ПрофРегион Керамика</title>
+            <keywords>кирпич эффективный цена, купить *!H1!*, купить кирпич рядовой щелевой</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* недорого. Продажа строительного кирпича в Москве</description>
+        </rule> 
+		<!--Кирпич рабочий поризованный-->
+		<rule exp="/kirpich-keramicheskij-porizovannyj*">
+            <title>Купить *!H1!* в Москве – стоимость, размеры | продажа поризованного кирпича в ПрофРегион Керамика</title>
+            <keywords>кирпич поризованный цена за куб, купить *!H1!*, стоимость поризованного кирпича</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* недорого. Продажа поризованного кирпича в Москве</description>
+        </rule> 
+		<!--Поризованные керамические блоки-->
+		<rule exp="/porotherm-*">
+            <title>Купить *!H1!* – цена, размеры, характеристики | купить теплую керамику в Москве</title>
+            <keywords>поризованные блоки цена, купить *!H1!*, цены на теплую керамику</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* недорого. Продажа теплой керамики в Москве</description>
+        </rule> 
+        <rule exp="/braer-blok-keramicheskij-porizovannyj*">
+            <title>Купить *!H1!* – цена, размеры, характеристики | купить теплую керамику в Москве</title>
+            <keywords>поризованные блоки цена, купить *!H1!*, цены на теплую керамику</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* недорого. Продажа теплой керамики в Москве</description>
+        </rule>  
+		<!--Кирпич облицовочный красный -->
+		<rule exp="/kirpich-oblicovochnyj-krasnyj*">
+            <title>Купить *!H1!* – цена, размеры | стоимость облицовочного кирпича в Москве</title>
+            <keywords>красный кирпич цена, купить *!H1!*, цены на облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа облицовочного кирпича</description>
+        </rule>  
+		<rule exp="/kirpich-oblicovochnyj-kremovyj*">
+            <title>Купить *!H1!* – цена, размеры | стоимость облицовочного кирпича в Москве</title>
+            <keywords>красный кирпич цена, купить *!H1!*, цены на облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа облицовочного кирпича</description>
+        </rule> 
+		<!--Кирпич облицовочный цветной (светлый)-->
+		<rule exp="/kirpich-oblicovochnyj-slon*">
+            <title>Купить *!H1!* – цена, размеры | стоимость облицовочного кирпича в Москве</title>
+            <keywords>купить светлый кирпич, купить *!H1!*, цены на облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа облицовочного кирпича</description>
+        </rule>
+		<rule exp="/kirpich-oblicovochnyj-zheltyj*">
+            <title>Купить *!H1!* – цена, размеры | стоимость облицовочного кирпича в Москве</title>
+            <keywords>купить светлый кирпич, купить *!H1!*, цены на облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа облицовочного кирпича</description>
+        </rule>
+		<rule exp="/kirpich-oblicovochnyj-soloma*">
+            <title>Купить *!H1!* – цена, размеры | стоимость облицовочного кирпича в Москве</title>
+            <keywords>купить светлый кирпич, купить *!H1!*, цены на облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа облицовочного кирпича</description>
+        </rule>
+		<!--Кирпич облицовочный тёмный эффективный-->
+		<rule exp="/kirpich-oblicovochnyj-terrakot*">
+            <title>Купить *!H1!* – цена, размеры | стоимость темного облицовочного кирпича в Москве</title>
+            <keywords>купить *!H1!*, цены на темный облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа темного облицовочного кирпича</description>
+        </rule>
+		<rule exp="/kirpich-oblicovochnyj-korichnevyj*">
+            <title>Купить *!H1!* – цена, размеры | стоимость темного облицовочного кирпича в Москве</title>
+            <keywords>купить *!H1!*, цены на темный облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа темного облицовочного кирпича</description>
+        </rule>
+		<rule exp="/kirpich-oblicovochnyj-temno*">
+            <title>Купить *!H1!* – цена, размеры | стоимость темного облицовочного кирпича в Москве</title>
+            <keywords>купить *!H1!*, цены на темный облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа темного облицовочного кирпича</description>
+        </rule>
+		<rule exp="/kirpich-oblicovochnyj-mokko*">
+            <title>Купить *!H1!* – цена, размеры | стоимость темного облицовочного кирпича в Москве</title>
+            <keywords>купить *!H1!*, цены на темный облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа темного облицовочного кирпича</description>
+        </rule>
+		<rule exp="/kirpich-oblicovochnyj-svetlo*">
+            <title>Купить *!H1!* – цена, размеры | стоимость темного облицовочного кирпича в Москве</title>
+            <keywords>купить *!H1!*, цены на темный облицовочный кирпич</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа темного облицовочного кирпича</description>
+        </rule>
+		<!--Блок газосиликатный стеновой-->		
+		<rule exp="/blok-gazosilikatnyj-stenovoj-*">
+            <title>Купить *!H1!* – цена, размеры, характеристики | продажа газобетона в Москве</title>
+            <keywords>купить *!H1!*, цены на газобетон</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа газобетона недорого</description>
+        </rule>
+       
+		<!--Блок перегородочный газосиликатный-->
+		<rule exp="/blok-gazosilikatnyj-peregorodochnyj*">
+            <title>Купить *!H1!* – цена, размеры, характеристики | продажа газобетона в Москве</title>
+            <keywords>купить *!H1!*, цены на газобетон</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа газобетона недорого</description>
+        </rule>
+		<!--Блок перегородочный керамзитобетонный-->
+		<rule exp="/blok-peregorodochnyj-aleksin*">
+            <title>Купить *!H1!* – цена, размеры, характеристики | продажа керамзитобетонных блоков в Москве</title>
+            <keywords>купить *!H1!*, цены на керамзитобетонные блоки</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве</description>
+        </rule>
+		<rule exp="/blok-peregorodochnyj-mo*">
+            <title>Купить *!H1!* – цена, размеры, характеристики | продажа керамзитобетонных блоков в Москве</title>
+            <keywords>купить *!H1!*, цены на керамзитобетонные блоки</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве</description>
+        </rule>
+		<!--Блок стеновой керамзитобетонный-->
+		<rule exp="/blok-stenovoj*">
+            <title>Купить *!H1!* – цена, размеры, характеристики | продажа керамзитобетонных блоков в Москве</title>
+            <keywords>купить *!H1!*, цены на керамзитобетонные блоки</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве</description>
+        </rule>
+		<!--Блок лицевой пескоцементный-->
+		<rule exp="/blok-licevoj*">
+            <title>Купить *!H1!* – цена, характеристики, размеры | продажа пескоцементных блоков в Москве</title>
+            <keywords>купить *!H1!*, цены на пескоцементные блоки</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа пескоцементных блоков</description>
+        </rule>
+		<!--Блок перегородочный пескоцементный-->
+		<rule exp="/blok-pskc-peregor*">
+            <title>Купить *!H1!* – цена, характеристики, размеры | продажа пескоцементных блоков в Москве</title>
+            <keywords>купить *!H1!*, цены на пескоцементные блоки</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа пескоцементных блоков</description>>
+        </rule>
+		<!--Блок стеновой пескоцементный-->
+		<rule exp="/blok-stenovoj-mo*">
+            <title>Купить *!H1!* – цена, характеристики, размеры | продажа пескоцементных блоков в Москве</title>
+            <keywords>купить *!H1!*, цены на пескоцементные блоки</keywords>
+            <description>ПрофРегион Керамика предлагает купить *!H1!* в Москве. Продажа пескоцементных блоков</description>
+        </rule>
+		<!-- END БЛОК ПРАВИЛ ДЛЯ АВТО ТАЙТЛОВ И МЕТА-->
+		
+		<rule exp="/category/proizvoditeli/terex/">
+            <title>Кирпич облицовочный Terex в Москве | лицевой кирпич Terex: солома, мокко, слоновая кость купить в Профрегион Керамика</title>
+            <keywords>кирпич облицовочный terex, лицевой кирпич terex, кирпич terex солома</keywords>
+            <description>Лучшие цены на кирпич облицовочный Terex в Москве. Купить лицевой кирпич Terex в Профрегион Керамика</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/vinerberger/">
+            <title>Кирпич Wienerberger (Винербергер) купить, блоки Винербергер цена | крупноформатные керамические блоки Wienerberger Porotherm в Москве</title>
+            <keywords>кирпич винербергер купить, блоки винербергер цена, крупноформатные керамические блоки wienerberger porotherm, купить кирпич wienerberger</keywords>
+            <description>Купить кирпич Wienerberger (Винербергер) в Профрегион Керамика. Лучшие цены на крупноформатные керамические блоки Wienerberger Porotherm в Москве</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/el-blok/">
+            <title>Газосиликатные блоки El Block цена, купить газобетон El Block | газобетонные блоки El Block в Москве</title>
+            <keywords>газосиликатные блоки el block цена, газобетон el block купить, газобетонные блоки el block</keywords>
+            <description>Лучшие цены на газосиликатные блоки El Block. Купить газобетон El Block в Москве. Газобетонные блоки El Block в Профрегион Керамика</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/vvkz/">
+            <title>Облицовочный кирпич ВВКЗ цена в Москве, купить кирпич ВВКЗ слоновая кость | прайс на лицевой кирпич ВВКЗ</title>
+            <keywords>облицовочный кирпич ввкз цена, кирпич ввкз слоновая кость, кирпич ввкз купить, ввкз прайс</keywords>
+            <description>Лучшие цены на облицовочный кирпич ВВКЗ. Купить кирпич ВВКЗ слоновая кость. Прайс на лицевой кирпич ВВКЗ в Профрегион Керамика</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/braer/">
+            <title>Поризованные керамические блоки Браер (Braer) купить, крупноформатные керамические блоки Braer (Браер) цена | теплая керамика Braer в Москве</title>
+            <keywords>поризованные керамические блоки браер купить, крупноформатные керамические блоки braer цена, теплая керамика braer</keywords>
+            <description>Купить поризованные керамические блоки Браер (Braer) в Профрегион Керамика. Лучшие цены на крупноформатные керамические блоки Braer (Браер). Теплая керамика Braer в Москве</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/kamennyj-cvetok/">
+            <title>Сухие смеси Каменный Цветок купить, сухие смеси Каменный Цветок цена в Москве | строительные смеси Каменный Цветок в Профрегион Керамика</title>
+            <keywords>сухие смеси каменный цветок купить, каменный цветок сухие смеси цена, каменный цветок москва, каменный цветок строительные смеси</keywords>
+            <description>Купить сухие смеси Каменный Цветок в Профрегион Керамика. Лучшие цены на сухие смеси Каменный Цветок. Строительные смеси Каменный Цветок в Москве</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/perel/">
+            <title>Цветная кладочная смесь Perel цена в Москве, теплые кладочные растворы Perel | сухие смеси Perel в Профрегион Керамика</title>
+            <keywords>цветная кладочная смесь perel цена, теплые кладочные растворы perel, сухие смеси perel</keywords>
+            <description>Лучшие цены на цветные кладочные смеси Perel. Теплые кладочные растворы Perel в Москве. Купить сухие смеси Perel в Профрегион Керамика</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/karasi/">
+            <title>Кирпич Караси недорого в Профрегион Керамика</title>
+            <keywords>кирпич караси</keywords>
+            <description>Профрегион Керамика предлагает купить кирпич от производителя Караси</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/vorotynsk/">
+            <title>Кирпич Воротынск купить недорого в Профрегион Керамика</title>
+            <keywords>кирпич воротынск купить</keywords>
+            <description>Профрегион Керамика предлагает купить кирпич Воротынск в Москве</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/euroblock/">
+            <title>Газосиликатные блоки Euroblock в Москве, цены на блоки Euroblock в Профрегион керамика</title>
+            <keywords>газосиликатные блоки euroblock, блоки euroblock цена</keywords>
+            <description>Газосиликатные блоки Euroblock в Москве. Лучшие цены на блоки Euroblock в Профрегион керамика</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/novomoskovskij/">
+            <title>Кирпич Новомосковский облицовочный цена в Москве, купить Новомосковский кирпич в Профрегион Керамика</title>
+            <keywords>кирпич новомосковский облицовочный цена, кирпич новомосковский купить</keywords>
+            <description>Лучшие цены на Новомосковский облицовочный кирпич в Москве. Купить Новомосковский кирпич в Профрегион Керамика</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/rosser/">
+            <title>Блоки Rosser (Россер) в Москве, пескоцементные и керамзитобетонные блоки Россер в Профрегион Керамика</title>
+            <keywords>блоки россер, rosser блоки, керамзитобетонные блоки россер</keywords>
+            <description>Продажа блоков Rosser (Россер) в Москве. Купить пескоцементные и керамзитобетонные блоки Россер в Профрегион Керамика</description>
+        </rule>
+		<rule exp="/category/proizvoditeli/rosser/">
+            <title>Блоки Rosser (Россер) в Москве, пескоцементные и керамзитобетонные блоки Россер в Профрегион Керамика</title>
+            <keywords>блоки россер, rosser блоки, керамзитобетонные блоки россер</keywords>
+            <description>Продажа блоков Rosser (Россер) в Москве. Купить пескоцементные и керамзитобетонные блоки Россер в Профрегион Керамика</description>
+        </rule>
+		<rule url="/category/proizvoditeli/leninskij/">
+            <title>Кирпич от Ленинск кузнецкого кирпичного завода купить в Москве | Профрегион Керамика</title>
+            <keywords>ленинск кузнецкий кирпичный завод, продажа кирпича от ленинск кузнецкого завода строительных материалов</keywords>
+            <description>Профрегион Керамика предлагает купить кирпич от Ленинск Кузнецкого кирпичного завода. Продажа кирпича от производителя в Москве</description>
+        </rule>
+		<rule url="/category/proizvoditeli/stroma/">
+            <title>Кирпич облицовочный Строма купить – цены, отзывы, фото | Профрегион Керамика</title>
+            <keywords>кирпич облицовочный строма, кирпич строма</keywords>
+            <description>Профрегион Керамика предлагает купить кирпич облицовочный Строма. Продажа кирпича от производителя в Москве</description>
+        </rule>
+		<rule url="/category/proizvoditeli/kashira/">
+            <title>Облицовочный кирпич Кашира купить – цены, отзывы, фото | Профрегион Керамика</title>
+            <keywords>кирпич облицовочный кашира, кирпич кашира</keywords>
+            <description>Профрегион Керамика предлагает купить облицовочный кирпич Кашира. Продажа кирпича от производителя в Москве</description>
+        </rule>
+		<rule url="/category/proizvoditeli/pochinki/">
+            <title>Облицовочный кирпич Починки купить – цены, отзывы, фото | Профрегион Керамика</title>
+            <keywords>кирпич облицовочный починки, кирпич починки</keywords>
+            <description>Профрегион Керамика предлагает купить облицовочный кирпич Починки. Продажа кирпича от производителя в Москве</description>
+        </rule>
+		<rule url="/category/proizvoditeli/mixnevo/">
+            <title>Продажа кирпича с завода в Михнево – цены, отзывы, фото | Профрегион Керамика</title>
+            <keywords>кирпич михнево завод, кирпич михнево</keywords>
+            <description>Профрегион Керамика предлагает купить кирпич производства Михнево. Продажа кирпича от производителя в Москве</description>
+        </rule>
+		<rule url="/category/proizvoditeli/gorki/">
+            <title>Строительный кирпич Горки купить – цены, отзывы, фото | Профрегион Керамика</title>
+            <keywords>кирпич строительный горки, кирпич горки</keywords>
+            <description>Профрегион Керамика предлагает купить строительный кирпич Горковского кирпичного завода. Продажа кирпича от производителя в Москве</description>
+        </rule>
+		<rule url="/category/proizvoditeli/gololobovo/">
+            <title>Строительный кирпич Голобово купить – цены, отзывы, фото | Профрегион Керамика</title>
+            <keywords>кирпич строительный голобово, кирпич голобово</keywords>
+            <description>Профрегион Керамика предлагает купить строительный кирпич Голобовского кирпичного завода. Продажа кирпича от производителя в Москве</description>
+        </rule>
+		<rule url="/category/proizvoditeli/luki/">
+            <title>Строительный кирпич Великие Луки купить – цены, отзывы, фото | Профрегион Керамика</title>
+            <keywords>кирпич строительный великие луки, кирпич великие луки</keywords>
+            <description>Профрегион Керамика предлагает купить строительный кирпич Великолукского кирпичного завода. Лучшие цены на кирпич Великие Луки в Москве</description>
+        </rule>
+    </rules>
+    
+	<replacement>
+		<rule url="/kirpich/" regexp="1">
+			<find><![CDATA[<h1>.+?</h1>]]></find>
+			<replace><![CDATA[<h1>Керамический кирпич</h1>]]></replace>
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа керамического кирпича в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj/" regexp="1">
+			<find><![CDATA[<h1>.+?</h1>]]></find>
+			<replace><![CDATA[<h1>Облицовочный керамический кирпич</h1>]]></replace>
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа облицовочного <a href="/kirpich/">кирпича</a> по отличным ценам в Москве.</span>]]></replace>
+		</rule> 
+		<rule url="/kirpich-rabochij/" regexp="1">
+			<find><![CDATA[<h1>.+?</h1>]]></find>
+			<replace><![CDATA[<h1>Строительный кирпич</h1>]]></replace>
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа строительного <a href="/kirpich/">кирпича</a> по отличным ценам в Москве.</span>]]></replace>
+		</rule> 
+		<rule url="/bloki/bloki-gazosilikatnye-gazobeton/" regexp="1">
+			<find><![CDATA[<h1>.+?</h1>]]></find>
+			<replace><![CDATA[<h1>Газосиликатные блоки</h1>]]></replace>
+		</rule>
+		<rule url="/kirpich-rabochij/kirpich-polnotelyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа полнотелого <a href="/kirpich-rabochij/">строительного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-rabochij/kirpich-effektivnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа щелевого <a href="/kirpich-rabochij/">строительного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-rabochij/kirpich-porizovanyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа поризованного <a href="/kirpich-rabochij/">керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-rabochij/porizovanye-keramicheskie-bloki/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/">строительного кирпича</a> и теплой керамики в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-100-karasi/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-100-gorki/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-125-karasi/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-150-karasi/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-vladimir-m100/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-100-gololobovo/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-125-gololobovo/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-125-ya-polyana-3_tex-otv-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-velikie-luki-m-150/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-125-novyj-ierusalim-s-tex-otv/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-100-rzhev/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-125-rzhev/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-150-ya-polyana-3_tex-otv/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-150-novyj-ierusalim-s-tex-otv/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-125-novyj-ierusalim/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-150-smolensk/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-150-novyj-ierusalim/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-150-dubrovsij-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-125-smolensk/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-boloxovo-m-150/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-100-vorotynsk-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-polnotelyj-keramich-1-m-150-fokino/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-polnotelyj/">полнотелого керамического кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-1-m-150-lobynino/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-1-m-125-kashira-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-1-5-m-150-lobynino/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-1-5-m-150-lobynino-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-1-5-m-150-kashira/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-porizovannyj-2-m-150-leninskij/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-2-m-150-lobynino/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-2-m-125-kashira/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-effektivnyj-2-m-150-kashira/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-effektivnyj/">эффективного (щелевого) кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-porizovannyj-2-m-150-leninskij/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-porizovanyj/">поризованного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-keramicheskij-porizovannyj-2-m-150-saratov/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-rabochij/kirpich-porizovanyj/">поризованного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/porotherm-8-m-100-blokker-rab-45nf-por-rifl-krasnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/porotherm-12-m-100-blokker-rab-kiprevo-por-rifl-krasnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/braer-blok-keramicheskij-porizovannyj-52-nf-380x130x219-m125/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/braer-blok-keramicheskij-porizovannyj-71-nf-510x130x219-m100/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/braer-blok-keramicheskij-porizovannyj-107-nf-380x250x219-m100/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/porotherm-25-m-100-blokker-rab-kiprevo-por-rifl-krasnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/porotherm-38-m-100-blokker-rab-kiprevo-por-rifl-krasnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/porotherm-44-m-100-blokker-rab-kiprevo-por-rifl-krasnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/porotherm-51-m-100-blokker-rab-kiprevo-por-rifl-krasnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/braer-blok-keramicheskij-porizovannyj-143-nf-510x250x219-m100/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – <a href="/kirpich-rabochij/porizovanye-keramicheskie-bloki/">поризованные керамические блоки</a> (теплая керамика) в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-novomoskovskij/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-kremovyj-15-m-200-vvkz/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-vorotynsk-ceratec/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-vorotynsk-ceratec-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-vorotynsk-ceratec-3/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-kashira/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-vorotynsk-ceratec/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-vorotynsk-ceratec-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-novomoskovskij/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-kashira/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа красного <a href="/kirpich-oblicovochnyj/kirpich-krasnyj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-novomoskovskij/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-kremovyj-15-m-200-vvkz/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-vorotynsk-ceratec/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-vorotynsk-ceratec-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-vorotynsk-ceratec-3/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-m-150-kashira/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-vorotynsk-ceratec/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-vorotynsk-ceratec-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-novomoskovskij/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-krasnyj-1-5-m-150-kashira/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа светлого <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/kirpich-oblicovochnyj/kirpich-oblicovochnyj-tyomnyj-effektivnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-terrakot-1-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-m-150-vorotynsk-ceratec/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-temno-korichnevyj-1-m-150-kirpichnyj-kombinat/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-mokko-1-m-150-gost-tovarkovo-n/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-svetlo-korichnevyj-1-m-150-kirpichnyj-kombinat/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-5-m-150-stroma/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-5-m-150-losinka/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-5-m-150-terex/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-5-m-150-vorotynsk-ceratec/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-5-m-150-pochinki/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-korichnevyj-1-5-m-150-pochinki-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа темного <a href="/kirpich-oblicovochnyj/">облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/bloki/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – блоки <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонные</a>, <a href="/bloki/bloki-peskocementnye/">пескоцементные</a> и <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатные</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/bloki/bloki-gazosilikatnye-gazobeton/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/bloki/blok-gazosilikatnyj-stenovoj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/bloki/blok-peregorodochnyj-gazosilikatnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-masa-henke-kzsm-600x300x200-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-euroblock600x300x300d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-euroblock600x300x400d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-euroblock600x300x300-d400-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-kostroma-600x300x200-d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-euroblock600x300x375-d400/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-euroblock600x300x375-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-euroblock600x300x300-d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-hebel-600x250x450-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-hebel-600x250x300-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-hebel-600x250x375-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-hebel-600x250x200-d500-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x300d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x400d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-hebel-600x250x400-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x500d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x375d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x250d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-hebel-600x300x200-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-el-blok-600x250x375-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-el-blok-600x250x400-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-el-blok-600x250x300-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-el-blok-600x250x200-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x300d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x400d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-bonolit-600x250x375d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-el-blok-600x250x300-d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-el-blok-600x250x200-d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-kostroma-600x300x250-d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-stenovoj-kostroma-600x250x400-d600/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-hebel-600x250x75-d400/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-hebel-600x250x100-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-hebel-600x250x150-d500-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-hebel-600x250x75-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-hebel-600x250x100-d500-3/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-hebel-600x250x150-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-bonolit-600x250x125-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-bonolit-600x250x150-d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-gazosilikatnyj-peregorodochnyj-el-blok-600x250x100d500/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-gazosilikatnye-gazobeton/">газосиликатных блоков (газобетона)</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/bloki/bloki-keramzitobetonnye/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/bloki/blok-peregorodochnyj-keramzitobetonnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/bloki/blok-stenovoj-keramzitobetonnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-peregorodochnyj-aleksin-390x90x190-2-x-pustotnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-peregorodochnyj-mo-390x188x90-3-x-pustotnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-stenovoj-mo-390x190x188-2-x-pustotnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-stenovoj-mo-390x190x188-7-mi-shhelevoj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-stenovoj-mo-390x190x188-polnotelyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-keramzitobetonnye/">керамзитобетонных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/bloki/bloki-peskocementnye/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/bloki/blok-licevoj-peskocementnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/bloki/blok-peregorodochnyj-peskocementnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/bloki/blok-stenovoj-peskocementnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-licevoj-mo-380x95x188-polnotelyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-licevoj-mo-390x190x188-polnotelyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-licevoj-mo-390x120x188-polnotelyj-6/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-licevoj-mo-390x150x188-polnotelyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-pskc-peregor-mo-390x188x80-3x-pust/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-pskc-peregor-mo-390x188x90-poln/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-stenovoj-mo-390x190x188-2-x-pustotnyj-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-stenovoj-mo-390x190x188-7-mi-shhelevoj-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/blok-stenovoj-mo-390x190x188-polnotelyj-2/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/bloki/bloki-peskocementnye/">пескоцементных блоков</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/gipsovye-izdeliya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/gipsovye-izdeliya/">гипсовых пазогребневых плит</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/plita-peregorodochnaya-ginsovaya-pazogrebnevaya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/gipsovye-izdeliya/">гипсовых пазогребневых плит</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/plita-peregorodochnaya-gipsovaya-pazogrebnevaya-vlagostojkaya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/gipsovye-izdeliya/">гипсовых пазогребневых плит</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/nerudnye-materialy/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/nerudnye-materialy/">нерудных материалов</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/pesok-karernyi/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/nerudnye-materialy/">нерудных материалов</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/pesok-mytyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/nerudnye-materialy/">нерудных материалов</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/pesok-rechnoj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/nerudnye-materialy/">нерудных материалов</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/shheben-izvestnyakovyq/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/nerudnye-materialy/">нерудных материалов</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/shheben-granitnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/nerudnye-materialy/">нерудных материалов</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slon-kost-ton-2-1-m-150-navlya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-zheltyj-1-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slonovaya-kost-1-m-150-gost-tovarkovo-n/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-soloma-1-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slonovaya-kost-1-m-200-vvkz/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slonovaya-kost-1-m-150-kirpichnyj-kombinat/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-soloma-svetlaya-1-m-150-gost-tovarkovo-n/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-zheltyj-1-5-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-soloma-1-5-m-150-gost-tovarkovo-n/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slonovaya-kost-15-m-200-terex/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slonovaya-kost-1-5-m-150-kirpichnyj-kombinat/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-soloma-1-5-m-150-polyarnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-soloma-1-5-m-150-vorotynsk-ceratec/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-soloma-1-m-150-gost-tovarkovo-n/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slonovaya-kost-1-m-150-navlya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/kirpich-oblicovochnyj-slonovaya-kost-15-m-150-terex/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа <a href="/kirpich-oblicovochnyj/kirpich-cvetnoj-effektivnyj/">светлого облицовочного кирпича</a> в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/terex/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа облицовочного кирпича Terex.</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/vinerberger/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа кирпича и керамических блоков Wienerberger (Винербергер).</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/el-blok/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа газосиликатных (газобетонных) блоков El Block.</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/vvkz/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа облицовочного кирпича ВВКЗ.</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/braer/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа керамических блоков Braer (Браер).</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/kamennyj-cvetok/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа сухих строительных смесей Каменный цветок в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/perel/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа цветных кладочных смесей и  теплых кладочных растворов Perel.</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/euroblock/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа газосиликатных блоков Euroblock.</span>]]></replace>
+		</rule>
+		<rule url="/category/proizvoditeli/novomoskovskij/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа облицовочного кирпича Новомосковский.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/gruntovka/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа универсальной грунтовки в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/klej-dlya-blokov/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа клея для газосиликатных блоков в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/klej-dlya-uteplitelej/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа клея для утеплителя в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/klej-plitochnyj/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа плиточного клея в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/cement/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа сухого цемента в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/smesi-dlya-polov/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа сухих строительных смесей для пола в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/suxie-kladochnye-smesi/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа сухих кладочных смесей в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/teplye-kladochnye-smesi/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа теплых кладочных смесей в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/cvetnye-kladochnye-smesi/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа цветных кладочных смесей в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/shtukaturka-gipsovaya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа гипсовой штукатурки в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/shpaklevka-cementnaya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа цементной шпаклевки в Москве.</span>]]></replace>
+		</rule>
+		<rule url="/category/produktion/smesi-stroitelnye-cement/shtukaturka-cementnaya/" regexp="1">
+			<find><![CDATA[<span class="seo">.</span><br />]]></find>
+            <replace><![CDATA[<span class="seo"> – продажа цементной штукатурки в Москве.</span>]]></replace>
+		</rule>
+		<rule exp="/*" regexp="1">
+			<find><![CDATA[<a href="http://"]]></find>
+            <replace><![CDATA[<a]]></replace>			
+		</rule>
+	</replacement>
+    
+	<notfound script="/404.php">
+      <rule disabled="1">Это пустое правило, его не нужно удалять</rule>
+    </notfound>
+    
+</config>
